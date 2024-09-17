@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+#heading {
+    background:rgba(1000, 0, 0, 0.6);
+    padding-left: 25px; 
+    padding: 10px;
+    display: flex;
+    height: 45px;
+
+
+}
+#heading a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#heading {
+  background-image: url(img/logo-vermelha.webp);
+  background-size: 4%;
+  background-repeat: no-repeat;
+    
+   
+}
+#heading h2 {
+    padding-left: 38%;
+    font-size: 20px;
+    padding-top: 12px;
+    
+      
+
+}
+body{
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtBO_i7VIxIeay4yrd4JODVHewiD4mSQRJFo2-mWJIb7CUsszDwcNWA79f5zpDtqVD44D56XX_18MagdhbJfRTd8uFDo7chgX2lghuCttD5oKFl9c5Q62_QZ4HJp4lOdY6-kvQFg2wyso/s1600/logo_cptm-novo_vert.png);
+    background-size:30%;
+    background-position:center; 
+    background-repeat: no-repeat;
+    width: auto;
+    height: 100vh;
+}
+
+header {
+     flex: auto;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     align-items: center;
+     
+}
+header div {
+font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+background: #e50914;
+}
